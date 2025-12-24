@@ -3,7 +3,7 @@
         'name' => 'seu-vendor/evolution-api-php',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '9ba040b3acb64e4c1b7d0f2beadba51fc0ffd334',
+        'reference' => '535f8661f2289e11484041523e75dfcd20e73091',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -199,7 +199,7 @@
         'seu-vendor/evolution-api-php' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '9ba040b3acb64e4c1b7d0f2beadba51fc0ffd334',
+            'reference' => '535f8661f2289e11484041523e75dfcd20e73091',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
